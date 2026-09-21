@@ -10,3 +10,4 @@ Deepak Mathur - National Payments Corporation of India - deepak.mathur@npci.org.
 
 Shivani Pramod Giri - National Payments Corporation of India - shivani.pramod@npci.org.in
 
+Kishore Kumar R - National Payments Corporation of India - kishorekumar.r@npci.org.in
